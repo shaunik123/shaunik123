@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi there, I'm Shaunik Virdi</h1>
 <h3 align="center">Computer Science Student | IEEE VSIT Vice-Chairperson</h3>
 
